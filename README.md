@@ -55,11 +55,30 @@ devsecops-project/
 
 ## Features
 
-* Automated Security Scanning
-* Docker Image Analysis
-* Vulnerability Detection
-* GitHub Actions Automation
-* DevSecOps Workflow Integration
+## Features
+
+- Automated Security Scanning
+- Docker Image Vulnerability Analysis
+- Trivy Integration
+- GitHub Actions Security Pipeline
+- CI/CD Security Automation
+- Container Security Validation
+- DevSecOps Best Practices
+
+---
+
+## Workflow Result
+
+The GitHub Actions workflow successfully completed the following stages:
+
+- Checkout Source Code
+- Build Docker Image
+- Run Trivy Vulnerability Scanner
+- Generate Security Findings
+
+### Pipeline Screenshot
+
+![DevSecOps Security Scan](screenshots/github-actions-security-scan.png)
 
 ---
 
